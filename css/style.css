@@ -1,0 +1,189 @@
+body{
+	
+}
+element.style {
+    left: 0;
+    top: 0;
+}
+
+
+#map .tile {
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAACZUlEQVRIia3W3VLaQBgG4NwWXpSJJ3bKDDMe9hKkB5WE2JvgIjodDeR38w8KKmSz+QV9e4BJSSuOEnbmO36y2f3ebznudQHoAOABfDtC8ZTSDre7AMgvAFtvNmlRrlGUa+RFiSwvkOYF0ixHkmZgSQqWpIhZAhoz0JghojEiGmMVUSxXEZarCPP5IlUUhY1GI7kCTl5ewJKsAEtzxEkGylKsKMMyivG0onh4WmHxuMT84Qn3i0fM7heY3s0Rzu4RTO/gBVO4fgjHC2C7PizbhW4SiKLIer1ehwMgbJ6fs2MCJnFgWDaGspydnZ3xHICLcr1pANO7OQziQDcIVN2EZljQDAu6SaCbBIZlw7BsmMSBSRxYtgvL2VYFaIYF+fonBEG44ABcFOW6AUw0A6pufhywXRDH2+6EONAMC6puYihfN5HqF5nEORiwXR/E9aDqJiaa0UTyoqzPQH/9ikOA7bkEmGgGxqoOaSj/RbK8qA+5DeB4AVw/xFjVcTtWIUrDJlLdoraA64e4Hau4USZNJM3y+pq2Bbxgihtl8j+SpFndB22Bd5Gq0doCfjh7G2FJWndyW2AvErOkjoq2wLtIlUVtgb0IjVkddm2Bd5EqTdsCe29XROM6ri3ncMAPZ7A9/21kFdGdeXA44IczqLq1H9kdOBZxQF6hj/4ixw0awL+IMF88ZLsTrZoHVZpWWfTZuux/305GSumJoiis6vRjAb9+3+Brt8sEQdi+WkajkSxJEpOGcilKQwxECQNRwtVAxI+rwafrst8vu90uOz8/lxvPol6v1+F5/pTn+S9HqNN6BxzH/QEiCz+LZ4zeCwAAAABJRU5ErkJggg==") no-repeat scroll 0 0 #D3D5D7;
+}
+
+#map .tile {
+    color: transparent;
+    font-family: 'Courier New';
+    font-size: 21px;
+    font-weight: bold;
+    height: 25px;
+    line-height: 24px;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    width: 25px;
+}
+
+label{
+	color:white;
+	font-weight:bold;
+	font-size:20px;
+}
+
+h1{
+	font-size:50px;
+	font-weight:bold;
+	color:white;
+	text-align: center;
+	background-image:url('../images/Torpedo_Ted.png');
+	background-repeat: no-repeat;
+	
+}
+
+
+.titulo{
+font-size:50px;
+color:blue;
+}
+
+input{
+color:black;
+}
+
+#boton{
+color: white;
+background-color: black;
+}
+
+element.style {
+    background-color: red;
+    border-style: dashed;
+    color: white;
+    font: small-caption;
+    font-size: x-large;
+    height: 170px;
+    width: 200px;
+}
+
+h2.entre{
+color:white;
+font-size: 19px;
+text-align: center;
+}
+
+form.formulario {
+    
+    width: 500px;
+	font-size:8px;
+    
+    
+}
+form.formulario legend{
+    
+    color:white;
+	font-size:x-large;
+	font-style:bold;
+}
+
+h1.cursiva{
+	font-style:italic;
+}
+
+form.nivel {
+	background-color: black;
+    color: white;
+    font: small-caption;
+    font-size: x-large;
+    height: 150px;
+    width: 500px;
+}
+
+
+form.formulario input{
+
+	color:black;
+	
+	
+}
+
+#social{
+	background-color: white;
+	position: fixed;
+	right: 0px;
+	top: 0px;
+	width: 90px;
+	min-height: 100px;
+	
+	
+}
+
+
+#fb{
+	width: 82px;
+	margin-top:10px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+#yt{
+	margin-bottom:5px;
+	margin-left: 2px;
+	margin-top:5px;
+	width: 87px;
+}
+
+#imgprin{
+	background-image:	url('../images/spaceart.jpg');
+	background-repeat: no-repeat;
+	position:absolute;
+	height: 1200px;
+	width: 1349px;
+	top: -10px;
+	left: 0px;
+	
+}
+
+#logo{
+
+position:fixed;
+left: 800;
+
+}
+
+#inicio{
+position: absolute;
+left: 600;
+}
+
+#letras{
+
+position: absolute;
+}
+
+#letras2{
+
+position: relative;
+left: 380px;
+}
+
+#fotousu{
+position:absolute;
+left: 450px;
+
+}
+
+#nivele{
+background-image: url('../images/spaceart.jpg')
+}
+
+#logout{
+text-align: center;
+}
+
+#submit{
+	background-color:red;
+	color:white;
+	margin:22px;
+	padding:5px;
+	font-weight:bold;
+}

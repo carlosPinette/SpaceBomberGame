@@ -1,0 +1,1 @@
+{"Eugenio":10,"Chayote":8,"Hugo":9,"Lupita":4,"Oso":10,"Farid":7,"Migue":6,"Wio":7,"Prits":7,"MigueBot":3,"Moni":9,"Lauro":9,"Arturo":2}
